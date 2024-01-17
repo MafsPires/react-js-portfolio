@@ -1,0 +1,46 @@
+{
+   "skills":[
+    {
+      "id":"1",
+      "src": "./img/product-chain-1.png",
+      "title":"Front-End",
+      "description":"lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id":"2",
+      "src": "./img/tag-1.png",
+      "title":"Back-End",
+      "description":"lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id":"3",
+      "src": "./img/feather-pen-2.png",
+      "title":"Ux/Ui Design",
+      "description":"lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id":"4",
+      "src": "./img/feather-pen-1.png",
+      "title":"Webflow Development",
+      "description":"lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+  ],
+  "portfolio": [
+    {
+        "id": "1",
+        "src": "./img/MArt.png",
+        "title": "MArt",
+        "description": "Landing Page for a fictional art gallery. Made with HTML, CSS and Javascript.",
+        "githubLink": "https://mafspires.github.io/mart/",
+        "linkText": "View In Github"
+    },
+    {
+      "id":"2",
+      "src": "./img/real_state.png",
+      "title":"Real State",
+      "description":"Real State home page. Made with HTML, CSS and Javascript. ",
+      "githubLink": "https://mafspires.github.io/real_state_html/",
+      "linkText": "View In Github"
+    }
+  ]
+}
