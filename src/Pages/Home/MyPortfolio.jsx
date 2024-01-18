@@ -1,5 +1,14 @@
 import data from "../../data/index.json";
+
+
 export default function MyPortfolio() {
+  const openGithubProfile = () => {
+    // Replace 'githubprofile' with the actual URL of your github profile
+    const githubProfileUrl = 'https://github.com/MafsPires';
+
+    // Open the LinkedIn profile URL in a new tab or window
+    window.open(githubProfileUrl, '_blank');
+  };
   return(
     <section className="portfolio--section" id="MyPortfolio">
       <div className="portfolio--container-box">
@@ -8,7 +17,7 @@ export default function MyPortfolio() {
           <h2 className="section--heading">My Portfolio</h2>
         </div>
         <div>
-          <button className="btn btn-github">
+          <button className="btn btn-github" onClick={openGithubProfile}>
             Visit my Github
           </button>
         </div>

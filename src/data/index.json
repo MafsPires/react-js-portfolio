@@ -4,25 +4,25 @@
       "id":"1",
       "src": "./img/product-chain-1.png",
       "title":"Front-End",
-      "description":"lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      "description":"HTML, CSS, Javascript, React experience, with a good understanding of responsive design and mobile-first approach."
     },
     {
       "id":"2",
-      "src": "./img/tag-1.png",
+      "src": "./img/feather-pen-1.png",
       "title":"Back-End",
-      "description":"lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      "description":"Ruby on Rails experience, with a good understanding of MVC and RESTful APIs."
     },
     {
       "id":"3",
       "src": "./img/feather-pen-2.png",
-      "title":"Ux/Ui Design",
-      "description":"lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      "title":"UX/UI Design",
+      "description":"Responsible for both the look and feel of a product, as well as the experience a user has while using "
     },
     {
       "id":"4",
-      "src": "./img/feather-pen-1.png",
-      "title":"Webflow Development",
-      "description":"lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      "src": "./img/tag-1.png",
+      "title":"Grafic Design",
+      "description":"Create visual elements such as logos, banners and illustrations that help deliver a desired message."
     }
   ],
   "portfolio": [

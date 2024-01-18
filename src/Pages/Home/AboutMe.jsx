@@ -11,14 +11,10 @@ export default function AboutMe() {
           </p>
           <h1 className="skills-section--heading">About Me</h1>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet ad ratione maxime iure facilis ullam? Doloremque commodi obcaecati, quibusdam pariatur quae iusto rem modi, tenetur, sed fuga distinctio alias optio.
-          </p>
-          <p className="hero--section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet ad ratione maxime iure facilis ullam?
+          <strong>Junior Full-Stack Developer </strong>with a background in Design of Product. Recently graduated from <strong>Le Wagon</strong> intesive Web Development bootcamp.
           </p>
         </div>
       </div>
     </section>
   )
-}
-//abour me section
+  }

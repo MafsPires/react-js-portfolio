@@ -3,7 +3,7 @@ import HeroSection from "../HeroSection";
 import MySkills from "../MySkills";
 import MyPortfolio from "../MyPortfolio";
 import Navbar from "../Navbar";
-import Footer from "../Footer";
+
 
 
 export default function Home () {
@@ -14,7 +14,6 @@ export default function Home () {
       <MySkills/>
       <AboutMe/>
       <MyPortfolio/>
-      <Footer/>
     </>
   );
 }
