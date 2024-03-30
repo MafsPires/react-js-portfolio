@@ -25,8 +25,6 @@ export default function HeroSection() {
           Get in Touch
         </button>
       </div>
-      <div className="hero--section--img">
-        <img src="./img/hero_img.png" alt="Hero Section" width={300} />
-      </div>
+  
     </section>
   );}

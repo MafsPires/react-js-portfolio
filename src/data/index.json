@@ -41,6 +41,14 @@
       "description":"Real State home page. Made with HTML, CSS and Javascript. ",
       "githubLink": "https://mafspires.github.io/real_state_html/",
       "linkText": "View In Github"
+    },
+    {
+      "id":"3",
+      "src": "./img/calculadora.png",
+      "title":"Calculator",
+      "description":"Funcional Calculator. Made with HTML, CSS and Javascript. ",
+      "githubLink": "https://mafspires.github.io/calculator/",
+      "linkText": "View In Github"
     }
   ]
 }
