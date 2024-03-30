@@ -328,18 +328,21 @@ h2 {
   flex-direction: column;
   align-items: flex-start;
   gap: 80px;
+  border-radius: 15px
 }
 .portfolio--container-box {
   display: flex;
   justify-content: space-between;
   align-items: center;
   width: 100%;
+
 }
 .portfolio--container {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   gap: 21.3px;
+  border-radius: 15px
 }
 .portfolio--section--container {
   display: flex;
@@ -347,6 +350,7 @@ h2 {
   justify-content: center;
   gap: 42.6px;
   width: 100%;
+
 }
 .portfolio--section--img {
   border-radius: 8px;
@@ -365,8 +369,7 @@ h2 {
   background: #fff;
   box-shadow: 0 0 32px 0 rgba(0, 0, 0, 0.15);
   cursor: pointer;
-  border-top-left-radius: 12px;
-  border-top-right-radius: 12px;
+  border-radius: 15px
 }
 .portfolio--section--card--content {
   display: flex;
@@ -375,8 +378,8 @@ h2 {
   align-items: flex-start;
   gap: 32px;
   align-self: stretch;
-
 }
+
 .portfolio--section--title {
   color: var(--heading-color);
   padding: 0 15px 0 15px;
@@ -452,6 +455,10 @@ h2 {
     font-size: 28px;
     line-height: 40px;
   }
+  .btn-primary{
+    margin-left: 25px;
+  }
+
 }
 
 @media only screen and (max-width: 1600px) {
@@ -476,6 +483,8 @@ h2 {
     font-size: 17.333px;
     line-height: 27px;
   }
+
+
 }
 
 @media only screen and (max-width: 1200px) {
@@ -551,6 +560,9 @@ h2 {
   }
   .divider {
     margin: 20px;
+  }
+  .section--title {
+    justify-content: center;
   }
 }
 
